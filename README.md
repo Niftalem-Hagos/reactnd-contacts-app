@@ -1,1 +1,4 @@
-# reactnd-contacts-app
+# Contacts Project
+
+## Udacity React Project - Contacts App
+
